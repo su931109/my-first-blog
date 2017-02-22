@@ -25,7 +25,7 @@ SECRET_KEY = 'd(f$&6oh@iu_ff+r5xi8)l%#n2_&c6t=5zwujap7&3^91^5pfp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lysoo.pythonanywhere.com','123']
+ALLOWED_HOSTS = ['lysoo.pythonanywhere.com']
 
 
 # Application definition
